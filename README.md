@@ -2,4 +2,4 @@
 Clone of Disney+ Hotstar.
 
 # Preview
-https://user-images.githubusercontent.com/94279007/226980350-fe18f9f9-e954-44ff-a7de-abd67050a336.mp4
+![Screenshot (12)](https://user-images.githubusercontent.com/94279007/226980727-8220bdec-2952-4e70-8095-227d4fafcbd1.png)
