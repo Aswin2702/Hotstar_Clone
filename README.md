@@ -1,5 +1,5 @@
-# Hotstar_clone
+# Hotstar Clone
 Clone of Disney+ Hotstar.
 
 # Preview
-![Preview](https://user-images.githubusercontent.com/94279007/226976357-7005f693-0b55-4c12-b169-21c01ad52767.png)
+https://user-images.githubusercontent.com/94279007/226980350-fe18f9f9-e954-44ff-a7de-abd67050a336.mp4
