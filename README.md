@@ -19,7 +19,7 @@ To run this design locally, you need to have a web browser that supports HTML, C
 
 ## 🎥 Preview
 
-![Preview of the home page showing the banner and the categories](https://user-images.githubusercontent.com/94279007/226981142-ceea78e4-5b85-472b-8bb9-970db34cf00b.mp4)
+https://github.com/Aswin2702/Hotstar_clone/assets/94279007/963e461d-448c-4a2e-a418-b1486043700e
 
 ## 📜 License
 
